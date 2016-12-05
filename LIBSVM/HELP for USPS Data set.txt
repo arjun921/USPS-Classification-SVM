@@ -1,8 +1,0 @@
-cd to LIBSVM folder
-Run the following
-
-$make //makes executables of libsvm
-//For training
-$./svm-train usps
-//For Prediction using testFile
-$./svm-predict usps.t usps.model uspsOutput
