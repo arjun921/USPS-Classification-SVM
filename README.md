@@ -28,6 +28,7 @@ This calculates the Recall and precision for all classes.
 
 
 ###INDEX
+
 ####USPS_DATASET/TrainUSPS = Training File
 ####USPS_DATASET/Test = testing file. Also contains outputs for creating ground truth file to check accuracy of classifier.
 ####TrainUSPS.model = Model file created after running Step 8.
@@ -35,4 +36,4 @@ This calculates the Recall and precision for all classes.
 ####GroundTruth = Only Class/Labels from the test file.
 
 
-####Created for Dr. Asharaf S.
+###Created for Dr. Asharaf S.
