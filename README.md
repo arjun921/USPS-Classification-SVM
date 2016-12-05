@@ -7,7 +7,7 @@ and report precision and recall for each class in the data set.
 USPS_DATASET/TrainUSPS = Training File
 USPS_DATASET/Test = testing file. Also contains outputs for creating ground truth file to check accuracy of classifier.
 
-Steps Followed:
+##Steps Followed:
 ####1. Download libsvm
 ####2. Read README of libsvm
 ####3. Go to downloaded folder of libsvm via terminal
@@ -27,7 +27,7 @@ It can be found under USPS_DATASET/precision.py.
 This calculates the Recall and precision for all classes.
 
 
-###INDEX
+##Appendix
 
 ####USPS_DATASET/TrainUSPS = Training File
 ####USPS_DATASET/Test = testing file. Also contains outputs for creating ground truth file to check accuracy of classifier.
