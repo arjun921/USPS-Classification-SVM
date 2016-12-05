@@ -15,9 +15,15 @@ Steps Followed:
 4. Execute the make commmand for your system.
 5. Download USPS dataset
 6. Copy Datasets to libsvm folder.
-7. > ./svm-train USPS_DATASET/TrainUSPS
-8. > ./svm-predict USPS_DATASET/Test TrainUSPS.model USPS_DATASET/OutputValue
+7. Run following Commands
+7.1 > ./svm-train USPS_DATASET/TrainUSPS
+7.2 > ./svm-predict USPS_DATASET/Test TrainUSPS.model USPS_DATASET/OutputValue
 
+Step 7.1 trains the svm and creates a model file.
+Step 7.2 Makes prediction on test file using Model and outputs the predictions into a file and prints the accuracy of classification.
+
+Now that predictions have been made, I made a simple calculator for finding the precision and recall for each class in the dataset.
+It can be found under 
 #####This uses usps.t to run it through usps
 #####This gives predictions in a file named output within pwd
 ####Created for Dr. Asharaf S.
