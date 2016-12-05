@@ -18,8 +18,8 @@ Steps Followed:
 ####8. ./svm-train USPS_DATASET/TrainUSPS
 ####9. ./svm-predict USPS_DATASET/Test TrainUSPS.model USPS_DATASET/OutputValue
 
-####Step 8.  trains the svm and creates a model file.
-####Step 9.  Makes prediction on test file using Model and outputs the predictions into a file and prints the accuracy of classification.
+#####Step 8.  trains the svm and creates a model file.
+#####Step 9.  Makes prediction on test file using Model and outputs the predictions into a file and prints the accuracy of classification.
 
 Now that predictions have been made, I made a simple calculator for finding the precision and recall for each class in the dataset.
 It can be found under USPS_DATASET/precision.py.
