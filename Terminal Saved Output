@@ -1,0 +1,243 @@
+Arjuns-MBP:ML_Assignment arjuns$ ./svm-train USPS_DATASET/TrainUSPS
+*
+optimization finished, #iter = 182
+nu = 0.130140
+obj = -107.705875, rho = 0.451831
+nSV = 175, nBSV = 146
+*
+optimization finished, #iter = 155
+nu = 0.081031
+obj = -71.903809, rho = 0.466884
+nSV = 122, nBSV = 95
+*
+optimization finished, #iter = 75
+nu = 0.037008
+obj = -29.134798, rho = 0.284603
+nSV = 58, nBSV = 40
+*
+optimization finished, #iter = 127
+nu = 0.051538
+obj = -40.382130, rho = -0.165007
+nSV = 87, nBSV = 55
+*
+optimization finished, #iter = 75
+nu = 0.033334
+obj = -34.560558, rho = -0.052446
+nSV = 62, nBSV = 50
+*
+optimization finished, #iter = 204
+nu = 0.075347
+obj = -89.193843, rho = 0.406484
+nSV = 161, nBSV = 120
+*
+optimization finished, #iter = 140
+nu = 0.089429
+obj = -68.004842, rho = 0.067878
+nSV = 121, nBSV = 94
+*
+optimization finished, #iter = 232
+nu = 0.110520
+obj = -98.520637, rho = 1.178456
+nSV = 176, nBSV = 135
+*
+optimization finished, #iter = 100
+nu = 0.041915
+obj = -31.902453, rho = -0.006858
+nSV = 68, nBSV = 43
+*
+optimization finished, #iter = 199
+nu = 0.096160
+obj = -78.261294, rho = 0.113367
+nSV = 137, nBSV = 100
+*
+optimization finished, #iter = 135
+nu = 0.068801
+obj = -49.698111, rho = 0.030712
+nSV = 94, nBSV = 65
+*
+optimization finished, #iter = 265
+nu = 0.179664
+obj = -152.734966, rho = -1.532626
+nSV = 245, nBSV = 197
+*
+optimization finished, #iter = 119
+nu = 0.027997
+obj = -26.001749, rho = -0.875420
+nSV = 58, nBSV = 33
+*
+optimization finished, #iter = 264
+nu = 0.099371
+obj = -113.312437, rho = 0.042156
+nSV = 203, nBSV = 153
+*
+optimization finished, #iter = 196
+nu = 0.148868
+obj = -107.753086, rho = -1.512226
+nSV = 178, nBSV = 145
+*
+optimization finished, #iter = 238
+nu = 0.119460
+obj = -100.200168, rho = -0.001297
+nSV = 175, nBSV = 127
+*
+optimization finished, #iter = 168
+nu = 0.081618
+obj = -60.329407, rho = -0.547603
+nSV = 115, nBSV = 86
+*
+optimization finished, #iter = 189
+nu = 0.090773
+obj = -76.569161, rho = 0.347816
+nSV = 132, nBSV = 103
+*
+optimization finished, #iter = 161
+nu = 0.058361
+obj = -45.620989, rho = -0.555660
+nSV = 97, nBSV = 59
+*
+optimization finished, #iter = 110
+nu = 0.049154
+obj = -53.122833, rho = 0.011854
+nSV = 90, nBSV = 74
+*
+optimization finished, #iter = 145
+nu = 0.045493
+obj = -53.360057, rho = -0.051441
+nSV = 102, nBSV = 68
+*
+optimization finished, #iter = 237
+nu = 0.116606
+obj = -90.675493, rho = -0.660523
+nSV = 160, nBSV = 119
+*
+optimization finished, #iter = 258
+nu = 0.129509
+obj = -124.139937, rho = 0.036039
+nSV = 204, nBSV = 160
+*
+optimization finished, #iter = 252
+nu = 0.169535
+obj = -142.727929, rho = -0.295899
+nSV = 238, nBSV = 202
+*
+optimization finished, #iter = 116
+nu = 0.067762
+obj = -55.971894, rho = -0.739626
+nSV = 101, nBSV = 76
+*
+optimization finished, #iter = 67
+nu = 0.030549
+obj = -32.028209, rho = -0.466743
+nSV = 60, nBSV = 45
+*
+optimization finished, #iter = 116
+nu = 0.030985
+obj = -33.533943, rho = -0.242271
+nSV = 70, nBSV = 44
+*
+optimization finished, #iter = 131
+nu = 0.082610
+obj = -64.573120, rho = -0.826253
+nSV = 112, nBSV = 85
+*
+optimization finished, #iter = 143
+nu = 0.066295
+obj = -59.457306, rho = 0.107008
+nSV = 108, nBSV = 79
+*
+optimization finished, #iter = 270
+nu = 0.198321
+obj = -182.060214, rho = -1.366208
+nSV = 269, nBSV = 239
+*
+optimization finished, #iter = 72
+nu = 0.024203
+obj = -25.403409, rho = -0.231081
+nSV = 48, nBSV = 34
+*
+optimization finished, #iter = 214
+nu = 0.060004
+obj = -68.907235, rho = 0.453985
+nSV = 133, nBSV = 90
+*
+optimization finished, #iter = 220
+nu = 0.140709
+obj = -115.075942, rho = -0.308796
+nSV = 191, nBSV = 153
+*
+optimization finished, #iter = 210
+nu = 0.107922
+obj = -100.299220, rho = 1.019851
+nSV = 173, nBSV = 133
+*
+optimization finished, #iter = 231
+nu = 0.067364
+obj = -55.105816, rho = 0.298924
+nSV = 110, nBSV = 72
+*
+optimization finished, #iter = 52
+nu = 0.013795
+obj = -17.576699, rho = 0.268962
+nSV = 42, nBSV = 24
+*
+optimization finished, #iter = 96
+nu = 0.052093
+obj = -53.016234, rho = -0.397155
+nSV = 89, nBSV = 73
+*
+optimization finished, #iter = 67
+nu = 0.030099
+obj = -31.969479, rho = 0.809682
+nSV = 60, nBSV = 44
+*
+optimization finished, #iter = 61
+nu = 0.038335
+obj = -38.627654, rho = -0.120922
+nSV = 71, nBSV = 57
+*
+optimization finished, #iter = 167
+nu = 0.059409
+obj = -64.468516, rho = -0.548176
+nSV = 123, nBSV = 90
+*
+optimization finished, #iter = 240
+nu = 0.072607
+obj = -89.104453, rho = 0.342350
+nSV = 163, nBSV = 119
+*
+optimization finished, #iter = 103
+nu = 0.032618
+obj = -35.344783, rho = -0.206759
+nSV = 69, nBSV = 51
+*
+optimization finished, #iter = 227
+nu = 0.125140
+obj = -106.056866, rho = 1.414836
+nSV = 179, nBSV = 135
+*
+optimization finished, #iter = 225
+nu = 0.115392
+obj = -85.988976, rho = 0.355460
+nSV = 159, nBSV = 122
+*
+optimization finished, #iter = 142
+nu = 0.068740
+obj = -60.828812, rho = -0.731793
+nSV = 111, nBSV = 82
+Total nSV = 2059
+
+Arjuns-MBP:ML_Assignment arjuns$ ./svm-predict USPS_DATASET/Test TrainUSPS.model USPS_DATASET/OutputValue
+Accuracy = 93.7718% (1882/2007) (classification)
+Arjuns-MBP:ML_Assignment arjuns$ cd USPS_DATASET/
+Arjuns-MBP:USPS_DATASET arjuns$ python precision.py GroundTruth OutputValue
+2007 instances in files. 10 unique labels
+Class 1: Precision = 0.9860724233983287, Recall = 0.9860724233983287
+Class 2: Precision = 0.9772727272727273, Recall = 0.9772727272727273
+Class 3: Precision = 0.9040404040404041, Recall = 0.9040404040404041
+Class 4: Precision = 0.8795180722891566, Recall = 0.8795180722891566
+Class 5: Precision = 0.925, Recall = 0.925
+Class 6: Precision = 0.9125, Recall = 0.9125
+Class 7: Precision = 0.9294117647058824, Recall = 0.9294117647058824
+Class 8: Precision = 0.9251700680272109, Recall = 0.9251700680272109
+Class 9: Precision = 0.8975903614457831, Recall = 0.8975903614457831
+Class 10: Precision = 0.9661016949152542, Recall = 0.9661016949152542
