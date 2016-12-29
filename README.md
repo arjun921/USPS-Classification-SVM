@@ -21,10 +21,8 @@ USPS_DATASET/Test = testing file. Also contains outputs for creating ground trut
 - Step 8.  trains the svm and creates a model file.
 - Step 9.  Makes prediction on test file using Model and outputs the predictions into a file and prints the accuracy of classification.
 
-- Now that predictions have been made, I made a simple calculator for finding the precision and recall for each class in the dataset.
-- It can be found under USPS_DATASET/precision.py.
-- 10. Run the command: python precision.py GroundTruth OutputValue.
-- This calculates the Recall and precision for all classes.
+Now that predictions have been made, I made a simple calculator for finding the precision and recall for each class in the dataset.It can be found under USPS_DATASET/precision.py.
+10. Run the command: python precision.py GroundTruth OutputValue. This calculates the Recall and precision for all classes.
 
 
 ##Appendix
