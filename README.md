@@ -18,22 +18,22 @@ USPS_DATASET/Test = testing file. Also contains outputs for creating ground trut
 8. ./svm-train USPS_DATASET/TrainUSPS
 9. ./svm-predict USPS_DATASET/Test TrainUSPS.model USPS_DATASET/OutputValue
 
-Step 8.  trains the svm and creates a model file.
-Step 9.  Makes prediction on test file using Model and outputs the predictions into a file and prints the accuracy of classification.
+- Step 8.  trains the svm and creates a model file.
+- Step 9.  Makes prediction on test file using Model and outputs the predictions into a file and prints the accuracy of classification.
 
-Now that predictions have been made, I made a simple calculator for finding the precision and recall for each class in the dataset.
-It can be found under USPS_DATASET/precision.py.
-10. Run the command: python precision.py GroundTruth OutputValue.
-This calculates the Recall and precision for all classes.
+- Now that predictions have been made, I made a simple calculator for finding the precision and recall for each class in the dataset.
+- It can be found under USPS_DATASET/precision.py.
+- 10. Run the command: python precision.py GroundTruth OutputValue.
+- This calculates the Recall and precision for all classes.
 
 
 ##Appendix
 
-USPS_DATASET/TrainUSPS = Training File
-USPS_DATASET/Test = testing file. Also contains outputs for creating ground truth file to check accuracy of classifier.
-TrainUSPS.model = Model file created after running Step 8.
-OutputValue = File where we saved all predictions.
-GroundTruth = Only Class/Labels from the test file.
+- USPS_DATASET/TrainUSPS = Training File
+- USPS_DATASET/Test = testing file. Also contains outputs for creating ground truth file to check accuracy of classifier.
+- TrainUSPS.model = Model file created after running Step 8.
+- OutputValue = File where we saved all predictions.
+- GroundTruth = Only Class/Labels from the test file.
 
 
 ###Created for Dr. Asharaf S.
