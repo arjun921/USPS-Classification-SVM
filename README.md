@@ -3,10 +3,10 @@ This was our final assignment for Semester 1 Machine Learning.
 
 We were told to Use the usps data set from https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/
 and report precision and recall for each class in the data set.
-
+```
 USPS_DATASET/TrainUSPS = Training File
 USPS_DATASET/Test = testing file. Also contains outputs for creating ground truth file to check accuracy of classifier.
-
+```
 ## Steps Followed:
 1. Download libsvm
 2. Read README of libsvm
