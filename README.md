@@ -7,7 +7,7 @@ and report precision and recall for each class in the data set.
 USPS_DATASET/TrainUSPS = Training File
 USPS_DATASET/Test = testing file. Also contains outputs for creating ground truth file to check accuracy of classifier.
 
-##Steps Followed:
+## Steps Followed:
 1. Download libsvm
 2. Read README of libsvm
 3. Go to downloaded folder of libsvm via terminal
@@ -25,7 +25,7 @@ Now that predictions have been made, I made a simple calculator for finding the 
 10. Run the command: python precision.py GroundTruth OutputValue. This calculates the Recall and precision for all classes.
 
 
-##Appendix
+## Appendix
 
 - USPS_DATASET/TrainUSPS = Training File
 - USPS_DATASET/Test = testing file. Also contains outputs for creating ground truth file to check accuracy of classifier.
@@ -34,4 +34,4 @@ Now that predictions have been made, I made a simple calculator for finding the 
 - GroundTruth = Only Class/Labels from the test file.
 
 
-###Created for Dr. Asharaf S.
+### Created for Dr. Asharaf S.
