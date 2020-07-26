@@ -34,4 +34,4 @@ Now that predictions have been made, I made a simple calculator for finding the 
 - GroundTruth = Only Class/Labels from the test file.
 
 
-### Created for Dr. Asharaf S.
+### Submitted to Dr. Asharaf S.
